@@ -1,0 +1,17 @@
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  background-color: rgb(185, 185, 67);
+  font-size: 20px;
+  font-weight: bold;
+  border-top: 2px solid black;
+}
+.increment {
+  width: 25%;
+}
+.refresh {
+  width: 50%;
+}
+.decrement {
+  width: 25%;
+}
